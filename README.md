@@ -87,36 +87,6 @@ PowerShare applies **engineering economics** to evaluate project feasibility, op
 - **Sustainable Returns:** Aligns profit with environmental and social outcomes.  
 - **Scalability:** Replicable model for emerging markets beyond Africa.  
 
----
-
-## 🧮 Key Equations Used  
-
-- **Present Worth (PW):**  
-  \[
-  PW = A \times \frac{(1 + i)^n - 1}{i(1 + i)^n}
-  \]
-
-- **Net Present Worth (NPW):**  
-  \[
-  NPW = PW - P
-  \]
-
-- **Annual Worth (AW):**  
-  \[
-  AW = NPW \times \frac{i(1 + i)^n}{(1 + i)^n - 1}
-  \]
-
-- **Future Value (FV):**  
-  \[
-  FV = A \times \frac{(1 + i)^n - 1}{i}
-  \]
-
-- **Capitalized Cost (CC):**  
-  \[
-  CC = \frac{A}{i}
-  \]
-
----
 
 ## 🧭 References  
 1. United Nations Department of Economic and Social Affairs (2025). *Decoding Africa’s Energy Journey.*  
