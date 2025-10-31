@@ -2,7 +2,6 @@
 # PowerShare: Accelerating Clean Energy Access in Africa  
 ### *Leveraging Industry 4.0 FinTech for SDG 7 — Affordable and Clean Energy*
 
-<img src='Access to electricity.jpg' width=400> 
 
 ---
 
@@ -13,7 +12,7 @@ The initiative supports **United Nations Sustainable Development Goal (SDG) 7** 
 
 Despite Africa’s vast renewable potential, the continent receives **less than 2% of global clean energy investment**, leaving nearly **600 million people without electricity**.  
 PowerShare bridges this gap through **blockchain-based crowdfunding**, **AI risk assessment**, and **mobile payment integration**, connecting global investors with local renewable projects.
-
+<img src='Access to electricity.jpg' width=400> 
 ---
 
 ## Core Concept  
