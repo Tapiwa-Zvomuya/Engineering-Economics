@@ -1,12 +1,12 @@
 # Engineering-Economics
-# ⚡ PowerShare: Accelerating Clean Energy Access in Africa  
+# PowerShare: Accelerating Clean Energy Access in Africa  
 ### *Leveraging Industry 4.0 FinTech for SDG 7 — Affordable and Clean Energy*
 
 ![PowerShare Banner](https://via.placeholder.com/1000x300?text=PowerShare+|+SDG+7+Clean+Energy+Innovation)
 
 ---
 
-## 🌍 Project Overview  
+## Project Overview  
 
 **PowerShare** is an **AI-powered FinTech platform** that democratizes investment in clean, small-scale energy infrastructure across Africa.  
 The initiative supports **United Nations Sustainable Development Goal (SDG) 7** — ensuring access to *affordable, reliable, sustainable, and modern energy for all*.
@@ -16,11 +16,11 @@ PowerShare bridges this gap through **blockchain-based crowdfunding**, **AI risk
 
 ---
 
-## 💡 Core Concept  
+## Core Concept  
 
 > “Empowering everyone — from rural entrepreneurs to global investors — to share in Africa’s renewable energy future.”
 
-### 🔸 How It Works  
+### How It Works  
 1. **Project Listing:** Local renewable developers list solar, wind, or bioenergy projects on PowerShare.  
 2. **Investment Marketplace:** Global investors browse and fund vetted projects using fiat or digital currencies.  
 3. **Smart Contracts:** Blockchain ensures transparent, traceable transactions and fractional project ownership.  
@@ -29,7 +29,7 @@ PowerShare bridges this gap through **blockchain-based crowdfunding**, **AI risk
 
 ---
 
-## 🧠 Engineering Economics Application  
+## Engineering Economics Application  
 
 PowerShare applies **engineering economics** to evaluate project feasibility, optimize investment, and forecast long-term sustainability.  
 
@@ -47,11 +47,11 @@ PowerShare applies **engineering economics** to evaluate project feasibility, op
 | Future Value (FV) | \$18,831.80 | Total projected return after 10 years |
 | Capitalized Cost (CC) | \$6,250 | Present cost for perpetual maintenance |
 
-✅ **Conclusion:** The project is economically viable and socially impactful — it increases access to power while providing sustainable returns.
+**Conclusion:** The project is economically viable and socially impactful — it increases access to power while providing sustainable returns.
 
 ---
 
-## ⚙️ Implementation Feasibility  
+## Implementation Feasibility  
 
 **Technological Readiness:**  
 - Built on existing **mobile money**, **cloud**, and **blockchain** systems already used in Africa.  
@@ -69,7 +69,7 @@ PowerShare applies **engineering economics** to evaluate project feasibility, op
 
 ---
 
-## 🧩 SDG Alignment  
+## SDG Alignment  
 
 | SDG Target | PowerShare Contribution |
 |-------------|------------------------|
@@ -80,7 +80,7 @@ PowerShare applies **engineering economics** to evaluate project feasibility, op
 
 ---
 
-## 💸 Economic & Social Impact  
+## Economic & Social Impact  
 
 - **Decentralized Financing:** Removes barriers to clean energy investment.  
 - **Community Empowerment:** Enables local ownership and participation.  
@@ -88,7 +88,7 @@ PowerShare applies **engineering economics** to evaluate project feasibility, op
 - **Scalability:** Replicable model for emerging markets beyond Africa.  
 
 
-## 🧭 References  
+## References  
 1. United Nations Department of Economic and Social Affairs (2025). *Decoding Africa’s Energy Journey.*  
 2. UNDESA (2023). *Affordable and Clean Energy – Goal 7.* [Link](https://sdgs.un.org/goals/goal7)  
 3. Africa–EU Energy Partnership (2024). *Europe Remains a Global Leader in SDG7 Finance in Africa.*  
