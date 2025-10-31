@@ -2,7 +2,7 @@
 # PowerShare: Accelerating Clean Energy Access in Africa  
 ### *Leveraging Industry 4.0 FinTech for SDG 7 — Affordable and Clean Energy*
 
-![PowerShare Banner](https://via.placeholder.com/1000x300?text=PowerShare+|+SDG+7+Clean+Energy+Innovation)
+<img src='Access to electricity.jpg' width=400> 
 
 ---
 
